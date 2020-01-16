@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'robotolight';
-    src: url('roboto-light.woff2') format('woff2'),
-         url('roboto-light.woff') format('woff');
+    src: url('../fonts/roboto-light.woff2') format('woff2'),
+         url('../fonts/roboto-light.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'fontawesomeregular';
-    src: url('fontawesome-webfont.woff2') format('woff2'),
-         url('fontawesome-webfont.woff') format('woff');
+    src: url('../fonts/fontawesome-webfont.woff2') format('woff2'),
+         url('../fonts/fontawesome-webfont.woff') format('woff');
     font-weight: normal;
     font-style: solid;
 
@@ -17,8 +17,8 @@
 
 @font-face {
     font-family: 'robotobold';
-    src: url('roboto-bold.woff2') format('woff2'),
-         url('roboto-bold.woff') format('woff');
+    src: url('../fonts/roboto-bold.woff2') format('woff2'),
+         url('../fonts/roboto-bold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
