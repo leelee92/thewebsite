@@ -1,5 +1,3 @@
 # thewebsite
 
-my freelance website :)
-
-http://www.mour-mbengue.com/
+my website and other.
